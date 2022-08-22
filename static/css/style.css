@@ -1,14 +1,29 @@
+@font-face {
+  font-family: myCabinet;
+  src: url(CabinetGrotesk-Medium.woff);
+}
+
 body {
   color: #333;
   font-size: 125%;
   line-height: 1.5;
-  max-width: 45rem;
-  padding: 1rem;
   margin: 0 auto;
+}
+
+h1 {
+  font-family: myCabinet;
 }
 
 .post-title {
   margin-bottom: 1rem;
+}
+
+#hero-banner {
+  background-color: #EBF5EE !important;
+}
+
+#hero-banner h1 {
+  font-size: 75px;
 }
 
 .post-date {

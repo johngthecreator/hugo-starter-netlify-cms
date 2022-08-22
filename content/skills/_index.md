@@ -1,5 +1,7 @@
 ---
-title: Programming Experience
+title: Skills
+section:
+    char: "/images/standing-5.svg"
 ---
 ## Python:
 
@@ -16,7 +18,7 @@ Django: More complex and structured framework used for creating backend framewor
 Competent understanding of the basics
 Able to read and understand function and structure of Javascript code
 Able to implement APIs into code
-Other Languages/Frameworks:
+
 ### HTML:
 
 Solid understanding of the basics
