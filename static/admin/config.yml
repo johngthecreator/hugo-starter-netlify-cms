@@ -31,14 +31,13 @@ collections:
               widget: "object",
               fields:
                 [
-                  { label: "Heading", name: "heading", widget: string },
-                  { label: "Text", name: "text", widget: "text" },
+                  { label: "char", name: "char", widget: image },
                 ],
             }
           - {label: "Body", name: "body", widget: "text"}
-      - file: "content/skills/index.md"
-        label: "About"
-        name: "about"
+      - file: "content/skills/_index.md"
+        label: "Skills"
+        name: "skills"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "text" }
