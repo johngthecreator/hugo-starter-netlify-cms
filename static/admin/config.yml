@@ -36,7 +36,7 @@ collections:
                 ],
             }
           - {label: "Body", name: "body", widget: "text"}
-      - file: "content/about/index.md"
+      - file: "content/skills/index.md"
         label: "About"
         name: "about"
         fields:
